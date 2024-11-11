@@ -1,0 +1,9 @@
+﻿  pch.cpp
+C:\Users\Fil\source\repos\Libs\task_4\task4.cpp(66,22): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "pch.cpp")
+  
+C:\Users\Fil\source\repos\Libs\task_4\task4.cpp(68,22): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "pch.cpp")
+  
+  test.cpp
+  GTestTask_4.vcxproj -> C:\Users\Fil\source\repos\Libs\x64\Debug\GTestTask_4.exe

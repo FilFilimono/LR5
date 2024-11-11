@@ -1,0 +1,19 @@
+﻿  pch.cpp
+C:\Users\Fil\source\repos\Libs\task_3\task3.cpp(17,64): warning C4305: аргумент: усечение из "__int64" в "double"
+  (компиляция исходного файла "pch.cpp")
+  
+C:\Users\Fil\source\repos\Libs\task_3\task3.cpp(17,56): warning C4305: аргумент: усечение из "__int64" в "double"
+  (компиляция исходного файла "pch.cpp")
+  
+C:\Users\Fil\source\repos\Libs\task_3\task3.cpp(17,35): warning C4244: =: преобразование "double" в "__int64", возможна потеря данных
+  (компиляция исходного файла "pch.cpp")
+  
+C:\Users\Fil\source\repos\Libs\task_3\task3.cpp(99,22): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "pch.cpp")
+  
+C:\Users\Fil\source\repos\Libs\task_3\task3.cpp(101,22): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "pch.cpp")
+  
+C:\Users\Fil\source\repos\Libs\task_3\task3.cpp(89,1): warning C4715: productEvenArr: значение возвращается не при всех путях выполнения
+  test.cpp
+  GtestTask_3.vcxproj -> C:\Users\Fil\source\repos\Libs\x64\Debug\GtestTask_3.exe

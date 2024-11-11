@@ -1,0 +1,5 @@
+﻿  contextMenu.cpp
+  task_1.cpp
+C:\Users\Fil\source\repos\Libs\StaticLib\task_1.cpp(67,19): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  StaticLib.vcxproj -> C:\Users\Fil\source\repos\Libs\x64\Debug\StaticLib.lib
